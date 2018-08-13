@@ -31,11 +31,14 @@ $deep-purple: #1D1950;
                sans-serif;
 }
 
-.pink { color: $pink; }
-.purple { color: $purple; }
-.gold { color: $gold; }
+.pink, .hover-pink:hover { color: $pink; }
+.purple, .hover-purple:hover { color: $purple; }
+.gold, .hover-gold:hover { color: $gold; }
+.orange, .hover-orange:hover { color: $orange; }
+.green, .hover-green:hover { color: $green; }
 
 .b--deep-purple { border-color: $deep-purple; }
+.bg-orange, .hover-bg-orange:hover { background-color: $orange; }
 .bg-gold, .hover-bg-gold:hover { background-color: $gold; }
 .bg-purple, .hover-bg-purple:hover { background-color: $purple; }
 .bg-pink, .hover-bg-pink:hover { background-color: $pink; }
@@ -54,4 +57,15 @@ $deep-purple: #1D1950;
 
 #menu {
   transition: .2s;
+}
+
+.panel, .menu-panel {
+  min-height: 0;
+  max-height: 0;
+  transition: max-height .3s;
+}
+
+#grafico-fin:checked ~ .panel,
+#menu-btn:checked ~ .menu-panel {
+  max-height: 40rem;
 }
