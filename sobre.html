@@ -1,0 +1,20 @@
+---
+title: Quem é Thaís Ferreira
+layout: default
+---
+<header class="w-100 bg-navi pt4">
+	<div class="center mw7-ns pv4 tc">
+		<h1 class="f2 lh-title deep-purple raleway">{{ page.title }}</h1>
+	</div>
+</header>
+
+<section class="ph2 ph4-ns relative center mw6">
+	<div class="dn-ns absolute bl bw1 b--black-30 h-100 w1" style="left: 20px"></div>
+	<div class="dn db-ns absolute bl bw1 b--black-30 h-100 w1" style="left: 44px"></div>
+	{% for trajetoria in site.data.trajetoria %}
+	<article class="center mw8 pt2 pb4 relative z-99">
+		<h2 class="lh-solid raleway purple f3 fw6 pl5 mt3 ma0 mb1 icon-trajetoria">{{ trajetoria.time }}</h2>
+		<p class="pl5 f5 purple measure lh-copy mv2">{{ trajetoria.description }}</p>
+	</article>
+	{% endfor %}
+</section>

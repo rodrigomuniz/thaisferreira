@@ -33,6 +33,7 @@ $deep-purple: #1D1950;
 
 .pink, .hover-pink:hover { color: $pink; }
 .purple, .hover-purple:hover { color: $purple; }
+.deep-purple, .hover-deep-purple:hover { color: $deep-purple; }
 .gold, .hover-gold:hover { color: $gold; }
 .orange, .hover-orange:hover { color: $orange; }
 .green, .hover-green:hover { color: $green; }
@@ -71,4 +72,10 @@ $deep-purple: #1D1950;
 #menu-btn:checked ~ .menu-panel {
   max-height: 100vh;
   overflow: auto;
+}
+
+.icon-trajetoria {
+  background-image: url(../images/icon-trajetoria.png);
+  background-position: center left;
+  background-repeat: no-repeat;
 }
