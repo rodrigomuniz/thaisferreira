@@ -36,12 +36,14 @@ $deep-purple: #1D1950;
 .gold, .hover-gold:hover { color: $gold; }
 .orange, .hover-orange:hover { color: $orange; }
 .green, .hover-green:hover { color: $green; }
+.navi, .hover-navi:hover { color: $navi; }
 
 .b--deep-purple { border-color: $deep-purple; }
 .bg-orange, .hover-bg-orange:hover { background-color: $orange; }
 .bg-gold, .hover-bg-gold:hover { background-color: $gold; }
 .bg-purple, .hover-bg-purple:hover { background-color: $purple; }
 .bg-pink, .hover-bg-pink:hover { background-color: $pink; }
+.bg-navi, .hover-bg-navi:hover { background-color: $navi; }
 
 .shadow-deep { box-shadow: 3px 3px 0px 0px rgba( 0, 0, 0, 0.3 ); }
 
@@ -68,4 +70,5 @@ $deep-purple: #1D1950;
 #grafico-fin:checked ~ .panel,
 #menu-btn:checked ~ .menu-panel {
   max-height: 100vh;
+  overflow: auto;
 }
