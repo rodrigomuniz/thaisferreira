@@ -4,3 +4,12 @@ timezone: America/Sao_Paulo
 permalink: blog/:title
 sass:
     style: :compressed
+collections:
+  pautas:
+    title:
+    icon_path:
+    descriptions:
+      content
+_editable_regions:
+  image:
+    url_src: true
