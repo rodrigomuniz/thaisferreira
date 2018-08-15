@@ -1,10 +1,10 @@
 - title: Quem é Thais Ferreira
-  url: sobre.html
+  url: sobre
 - title: Nossos Valores
-  url: valores.html
+  url: valores
 - title: Pautas e Propostas
-  url: pautas-propostas.html
+  url: pautas-propostas
 # - title: Mãe&amp;Mais
-#   url: mae-mais.html
+#   url: mae-mais/
 - title: Agenda
-  url: agenda.html
+  url: agenda

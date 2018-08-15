@@ -1,14 +1,5 @@
 timezone: America/Sao_Paulo
-#host: muniz.nu
-# baseurl: /thaisferreira
+baseurl: /thaisferreira
 permalink: blog/:title
 sass:
     style: :compressed
-collections:
-  pautas:
-    title:
-    icon_path:
-    descriptions:
-_editable_regions:
-  image:
-    url_src: true
