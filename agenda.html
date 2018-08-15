@@ -3,15 +3,25 @@ title: Agenda
 layout: default
 ---
 <header class="w-100 bg-navi">
-	<div class="center mw8-ns pv4 tc">
-		<h1 class="f2 lh-title ttu orange raleway">{{ page.title }}</h1>
+	<div class="center mw7 pv2 pv5-ns relative overflow-hidden contain">
+		<div class="absolute dn-ns w5 h5 bg-white-80 br-100" style="right: -28%; top: 25%"></div>
+		<div class="absolute dn-ns bg-green br-100" style="right: 1%; top: -21rem; width:24rem; height:24rem;"></div>
+		<div class="absolute dn-ns w5 h5 bg-white-80 br-100" style="left: -8%; top: 55%"></div>
+		<div class="absolute dn-ns w4 h4 bg-green br-100" style="left: 26%; top: 75%;"></div>
+
+		<div class="absolute dn db-ns bg-green br-100" style="right: 1%; top: -22rem; width:28rem; height:28rem;"></div>
+		<div class="absolute dn db-ns bg-white-80 br-100" style="left: 0; bottom: 45%; width:23rem; height:23rem;"></div>
+		<div class="absolute dn db-ns w5 h5 bg-white-80 br-100" style="right: 3%; top: 74%"></div>
+		<div class="absolute dn db-ns bg-green br-100" style="left: 9%; bottom: -18rem; width:23rem; height:23rem;"></div>
+		<div class="absolute w-100 h-100 contain bottom-0 left-0" style="background-image: url(images/bg-thais02.png);background-repeat: no-repeat; background-position: left bottom"></div>
+		<h1 class="f2 f1-ns lh-title ttu orange raleway relative z-999 w-60 ph4 mr3 mr0-ns mr5-l fr tr tc-ns">{{ page.title }}</h1>
 	</div>
 </header>
 
 {% for month in site.data.agenda %}
 <section class="mb4">
 	<div class="bg-orange pv3 mb2">
-		<h4 class="raleway f3 fw2 white tracked ma0 tc">{{ month.title }}</h4>
+		<h4 class="raleway f3 f2-ns fw2 white tracked ma0 tc">{{ month.title }}</h4>
 	</div>
 	{% for event in month.events %}
 	<article class="center mw7 pv2 pv3-ns ph1 mb1 flex">
