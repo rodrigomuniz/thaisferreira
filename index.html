@@ -1,6 +1,8 @@
 ---
 title: Colabore com a campanha
 layout: doacao
+arrecadados: 9
+meta: 15
 ---
 <header class="w-100 bg-black">
 	<div class="center mw7 mw8-l">
@@ -22,18 +24,20 @@ layout: doacao
 
 		<div class="center w-90 mw6 pt4 pb4">
 			<div class="bg-orange h1 relative">
-				<div class="bg-purple h1 relative" style="width:60%">
-					<div class="raleway f4 fw6 pink tc absolute right--1 bottom-2 pt2">
-						9 mil
+				{% if page.arrecadados < page.meta %}
+				<div class="bg-purple h1 relative" style="width:{{ page.arrecadados | times:100 | divided_by:page.meta }}%">
+					<div class="raleway f4 fw6 pink tc absolute right--1 pt2" style="bottom: 25px">
+						{{ page.arrecadados }} mil
 					</div>
 					<?xml version="1.0" encoding="UTF-8"?>
-					<svg class="absolute" height="46px" style="top: -14px; right: -8px;" viewBox="0 0 11.49 24.13" xmlns="http://www.w3.org/2000/svg">
+					<svg class="absolute" height="46px" style="top: -12px; right: -8px;" viewBox="0 0 11.49 24.13" xmlns="http://www.w3.org/2000/svg">
 						<style>.cls-1{fill:#d94268;}</style>
 						<polygon class="cls-1" points="11.49 5.7 5.75 0 0 5.7 5.75 24.13"/>
 					</svg>
 				</div>
-				<div class="raleway f3 fw6 purple tc absolute right--1 bottom-2 pt2">
-					15 mil
+				{% endif %}
+				<div class="raleway f3 fw6 purple tc absolute right--1 pt2" style="bottom: 46px">
+					{{ page.meta }} mil
 				</div>
 				<?xml version="1.0" encoding="UTF-8"?>
 				<svg class="absolute" height="48px" style="top: -14px; right: -8px;" viewBox="0 0 11.49 24.13" xmlns="http://www.w3.org/2000/svg">
