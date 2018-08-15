@@ -16,10 +16,10 @@ layout: default
 	{% for event in month.events %}
 	<article class="center mw7 pv2 pv3-ns ph1 mb1 flex">
 		<div class="w-30 w-20-ns">
-			<div class="bg-navi white tc pv2 br2">
+			<div class="bg-navi white tc pv1 br2">
 				<span class="db raleway f6 f5-ns white-60 ttu lh-solid mt2 mt3-ns">{{ event.content.weekday }}</span>
-				<span class="db raleway f1 fw6 lh-solid pb1 pb3-ns">{{ event.content.day }}</span>
-				<p class="f6 fw6 white-60 lh-copy ma0 pt1 pv2-ns bt bw1 b--black-20">{{ event.content.time_start }} - {{ event.content.time_end }}</p>
+				<span class="db raleway f1 f-subheadline fw6 lh-solid pb2 pb3-ns">{{ event.content.day }}</span>
+				<p class="f6 fw6 white-60 lh-solid ma0 pv2 bt bw1 b--black-20">{{ event.content.time_start }} - {{ event.content.time_end }}</p>
 			</div>
 		</div>
 		<div class="w-70 w-80-ns pb1 ph2 pl3-ns">
