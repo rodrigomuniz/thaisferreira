@@ -11,15 +11,6 @@
         maps_url: https://goo.gl/maps/hGafYsuz14H2
         fb_url: false
     - content:
-        title: Lançamento da candidatura do Jean Wyllys
-        day: 16
-        weekday: Quinta
-        time_start: "9:30"
-        time_end: "10:30"
-        location: Lapa, Centro do Rio
-        maps_url: https://goo.gl/maps/A2ioKF3bMQk
-        fb_url: false
-    - content:
         title: Mulheres na Política
         day: 17
         weekday: Sexta
@@ -54,6 +45,15 @@
         time_end: "19:00"
         location: Praça Virgolino de Isaias Oliveira, Campo Grande
         maps_url: https://goo.gl/maps/1t2ophfuNNx
+        fb_url: false
+    - content:
+        title: Lançamento da candidatura do Jean Wyllys
+        day: 23
+        weekday: Quinta
+        time_start: "9:30"
+        time_end: "10:30"
+        location: Lapa, Centro do Rio
+        maps_url: https://goo.gl/maps/A2ioKF3bMQk
         fb_url: false
     - content:
         title: Lançamento das candidaturas negras do PSOL
