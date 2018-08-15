@@ -12,7 +12,7 @@ layout: default
 	<div class="absolute bl bw1 b--black-20 h-100 w1" style="left: 22px"></div>
 	{% for trajetoria in site.data.trajetoria %}
 	<article class="center mw8 pt2 pb4 relative z-99">
-		<h2 class="lh-solid raleway purple f3 f2-ns fw6 pl5 ma0 mv3 icon-trajetoria">{{ trajetoria.time }}</h2>
+		<h2 class="lh-solid raleway purple f3 f2-ns fw6 pl5 ma0 mv3 icon-trajetoria">{{ trajetoria.years }}</h2>
 		{% if trajetoria.image_path %}
 		<img class="db w-100 ba bw1 bl-0 br-0 b--white" src="{{ trajetoria.image_path }}" alt="Thais em {{ trajetoria.time }}" />
 		{% endif %}

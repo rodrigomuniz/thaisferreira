@@ -9,7 +9,6 @@ collections:
     title:
     icon_path:
     descriptions:
-      content
 _editable_regions:
   image:
     url_src: true
