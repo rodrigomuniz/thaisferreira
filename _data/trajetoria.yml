@@ -2,13 +2,13 @@
   image_path: images/timeline01.jpg
   description: Nasce no Rio de Janeiro e, desde então, vive no subúrbio da cidade, entre Vaz Lobo e Irajá
 - years: 2002 - 2006
-  image_path: https://media.giphy.com/media/6y7Ymw4uxpS0KZ0mMk/giphy.gif
+  image_path: images/timeline-gif-01.gif
   description: É vocalista e compositora de uma banda de hip hop chamada FURTHU RAP/ GANGSTA CLÃ abrindo shows para grupos importantes da cena.
 - years: 2005 - 2009
-  image_path: https://media.giphy.com/media/meHXqHWhDppkY/giphy.gif
+  image_path: images/timeline-gif-02.gif
   description: É uma das personalidades do maior baile charme do Brasil, o Rio Charme no Viaduto de Madureira.
 - years: 2007
-  image_path: https://j.gifs.com/32N6wR.gif
+  image_path: images/timeline-gif-03.gif
   description: Co-cria comunidade de empoderamento estético para mulheres negras e funda o canal no Youtube THA BONITA e rapidamente se tornou influenciadora digital.
 - years: 2009 - 2016
   image_path: images/timeline03.jpg
@@ -26,7 +26,7 @@
   image_path: images/timeline07.jpg
   description: Nasce seu primeiro filho vivo, Athos, em um parto humanizado e com apoio de uma obstetra e doula, no Hospital Federal dos Servidores do RJ.
 - years: 2014
-  image_path: https://media.giphy.com/media/27J3xoOw3m7NVYeSXD/giphy.gif
+  image_path: images/timeline-gif-04.gif
   description: Idealiza e funda um negócio social na área de saúde, destinado a territórios populares, o Mãe&Mais, a partir da experiência traumática de perda de seu primeiro bebê, das violências que sofreu e do encontro com outras famílias.
 - years: 2014
   image_path: images/timeline08.jpg
@@ -38,13 +38,13 @@
   image_path: images/timeline10.jpg
   description: Participa de projetos como Favela Criativa.
 - years: 2016
-  image_path: https://media.giphy.com/media/xT1XGUNvxQZUksHRfy/giphy.gif
+  image_path: images/timeline-gif-05.gif
   description: Idealiza o CRIA – Núcleo de Inteligência Periférica.
 - years: 2016
   image_path: images/timeline11.jpg
   description: Nasce o João, também em um parto hospitalar porém sem intervenção médica no mesmo hospital
 - years: 2017
-  image_path: https://media.giphy.com/media/oUZqX2UgK2xnq/giphy.gif
+  image_path: images/timeline-gif-06.gif
   description: Mãe&Mais recebe apoio financeiro da Brazil Fondation e Fundação Telefônica VIVO.
 - years: 2017
   image_path: images/timeline12.jpg
