@@ -1,0 +1,75 @@
+- months:
+  title: Agosto
+  events:
+    - content:
+        title: Caminhada do PSOL
+        day: 16
+        weekday: Quinta
+        time_start: "9:30"
+        time_end: "10:30"
+        location: Praça Mauá
+        maps_url: https://goo.gl/maps/hGafYsuz14H2
+        fb_url: false
+    - content:
+        title: Mulheres na Política
+        day: 17
+        weekday: Sexta
+        time_start: "18:00"
+        time_end: "20:00"
+        location: Cinelândia, Centro do Rio
+        maps_url: https://goo.gl/maps/y97rY4GvNJt
+        fb_url: https://www.facebook.com/events/1810341352347862/
+    - content:
+        title: Roda de conversa "Mulheres Negras na Política"
+        day: 17
+        weekday: Sexta
+        time_start: "20:00"
+        time_end: "22:00"
+        location: Casa Naara, Centro do Rio
+        maps_url: https://goo.gl/maps/ZWGLGfnebdB2
+        fb_url: false
+    - content:
+        title: Pretas Vozes. O Matriarcado e a Comunicação
+        day: 18
+        weekday: Sábado
+        time_start: "14:00"
+        time_end: "19:00"
+        location: Teatro do Oprimido, Centro do Rio
+        maps_url: https://goo.gl/maps/XERGU8udTAG2
+        fb_url: https://www.facebook.com/events/2205228169710828/
+    - content:
+        title: Encontro com Pré-Vestibular Comunitário
+        day: 19
+        weekday: Domingo
+        time_start: "14:00"
+        time_end: "19:00"
+        location: Praça Virgolino de Isaias Oliveira, Campo Grande
+        maps_url: https://goo.gl/maps/1t2ophfuNNx
+        fb_url: false
+    - content:
+        title: Lançamento da candidatura do Jean Wyllys
+        day: 23
+        weekday: Quinta
+        time_start: "9:30"
+        time_end: "10:30"
+        location: Lapa, Centro do Rio
+        maps_url: https://goo.gl/maps/A2ioKF3bMQk
+        fb_url: false
+    - content:
+        title: Lançamento das candidaturas negras do PSOL
+        day: 24
+        weekday: Sexta
+        time_start: "19:00"
+        time_end: "21:00"
+        location: Centro do Rio
+        maps_url: false
+        fb_url: false
+    - content:
+        title: Mulheres negras decidem na Baixada
+        day: 25
+        weekday: Sábado
+        time_start: "13:00"
+        time_end: "17:00"
+        location: Mesquita
+        maps_url: false
+        fb_url: https://www.facebook.com/events/1972002006424066/

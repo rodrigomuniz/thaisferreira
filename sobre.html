@@ -1,0 +1,28 @@
+---
+title: Quem é Thais Ferreira
+layout: default
+---
+<header class="w-100 bg-navi">
+	<div class="center mw7 pv2 pv5-ns relative overflow-hidden contain">
+		<div class="absolute dn-ns w5 h5 bg-green br-100" style="right: -28%; top: 25%"></div>
+		<div class="absolute dn-ns w4 h4 bg-purple br-100" style="left: -14%; top: 68%;"></div>
+
+		<div class="absolute dn db-ns w5 h5 bg-green br-100" style="right: 0%; top: 45%"></div>
+		<div class="absolute dn db-ns bg-purple br-100" style="left: 5%; top: 65%; width:20rem; height:20rem;"></div>
+		<div class="absolute w-100 h-100 contain bottom-0 right-0" style="background-image: url(images/bg-thais.png);background-repeat: no-repeat; background-position: right bottom"></div>
+		<h1 class="f2 lh-title ttu deep-purple raleway relative z-999 w-70 w-80-ns ph4 ml2 ml3-ns ml5-l tc-ns">{{ page.title }}</h1>
+	</div>
+</header>
+
+<section class="relative center mw6">
+	<div class="absolute bl bw1 b--black-20 h-100 w1" style="left: 22px"></div>
+	{% for trajetoria in site.data.trajetoria %}
+	<article class="center mw8 pt2 pb4 relative z-99">
+		<h2 class="lh-solid raleway purple f3 f2-ns fw6 pl5 ma0 mv3 icon-trajetoria">{{ trajetoria.years }}</h2>
+		{% if trajetoria.image_path %}
+		<img class="lazy db w-100 ba bw1 bl-0 br-0 b--white" data-src="{{ trajetoria.image_path }}" alt="Thais em {{ trajetoria.time }}" />
+		{% endif %}
+		<p class="ml4 f5 f4-ns purple measure lh-copy mv3 ph2">{{ trajetoria.description }}</p>
+	</article>
+	{% endfor %}
+</section>

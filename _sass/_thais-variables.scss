@@ -1,0 +1,51 @@
+$font-family-sans-serif:  'Open Sans', sans-serif;
+$headings-font-family:    'Raleway', sans-serif;
+$headings-font-weight:    700 !default;
+
+$pink: 			#D94268;
+$orange: 		#E68424;
+$gold: 		  #E3BF24;
+$green: 		#028847;
+$navi: 			#455CA7;
+$purple: 		#5C3469;
+$deep-purple: #1D1950;
+
+.sans-serif {
+  font-family: $font-family-sans-serif,
+                -apple-system, BlinkMacSystemFont,
+               'avenir next', avenir,
+               'helvetica neue', helvetica,
+               ubuntu,
+               roboto, noto,
+               'segoe ui', arial,
+               sans-serif;
+}
+.raleway {
+  font-family: $headings-font-family,
+                -apple-system, BlinkMacSystemFont,
+               'avenir next', avenir,
+               'helvetica neue', helvetica,
+               ubuntu,
+               roboto, noto,
+               'segoe ui', arial,
+               sans-serif;
+}
+
+.pink, .hover-pink:hover { color: $pink; }
+.purple, .hover-purple:hover { color: $purple; }
+.deep-purple, .hover-deep-purple:hover { color: $deep-purple; }
+.gold, .hover-gold:hover { color: $gold; }
+.orange, .hover-orange:hover { color: $orange; }
+.green, .hover-green:hover { color: $green; }
+.navi, .hover-navi:hover { color: $navi; }
+
+.b--deep-purple { border-color: $deep-purple; }
+
+.bg-orange, .hover-bg-orange:hover { background-color: $orange; }
+.bg-gold, .hover-bg-gold:hover { background-color: $gold; }
+.bg-deep-purple, .hover-bg-deep-purple:hover { background-color: $deep-purple; }
+.bg-purple, .hover-bg-purple:hover { background-color: $purple; }
+.bg-pink, .hover-bg-pink:hover { background-color: $pink; }
+.bg-navi, .hover-bg-navi:hover { background-color: $navi; }
+
+.shadow-deep { box-shadow: 3px 3px 0px 0px rgba( 0, 0, 0, 0.3 ); }

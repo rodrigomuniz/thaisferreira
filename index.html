@@ -1,0 +1,61 @@
+---
+title: Colabore com a campanha
+layout: doacao
+arrecadados: 10
+meta: 15
+---
+<header class="w-100 bg-black">
+	<div class="center mw7 mw8-l">
+		<div class="aspect-ratio aspect-ratio--16x9 mb4">
+			<iframe class="lazy aspect-ratio--object" data-src="https://www.youtube.com/embed/1VsCZGiCJoA?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+		</div>
+	</div>
+</header>
+
+<section class="tc pa3 ph4-ns pb4-ns">
+	<article class="center mw8 measure">
+		<h1 class="f3 f2-ns fw6 pink raleway bold ma0">{{ page.title }}</h1>
+		<p class="editable f5 f4-ns">Contribua com <strong>R$ 20</strong>, <strong>50</strong>, <strong>100</strong>, <strong>250</strong>, ou com qualquer outro valor de sua escolha</p>
+		<a class="editable raleway f3 f2-ns link br2 ph4 pv3 dib white bg-purple gold hover-bg-gold hover-purple tracked-tight" href="https://votolegal.com.br/em/thaisferreira/" target="_blank">Doe agora</a>
+	</article>
+
+	<article class="center mw8">
+		<h2 class="editable f4 f3-ns ttu pink raleway bold mt5 mb4 tracked">Nossa meta (R$)</h2>
+
+		<div class="center w-90 mw6 pt4 pb4">
+			<div class="bg-orange h1 relative">
+				{% if page.arrecadados < page.meta %}
+				<div class="bg-purple h1 relative" style="width:{{ page.arrecadados | times:100 | divided_by:page.meta }}%">
+					<div class="raleway f4 fw6 pink tc absolute right--1 pt2" style="bottom: 25px">
+						{{ page.arrecadados }} mil
+					</div>
+					<?xml version="1.0" encoding="UTF-8"?>
+					<svg class="absolute" height="46px" style="top: -12px; right: -8px;" viewBox="0 0 11.49 24.13" xmlns="http://www.w3.org/2000/svg">
+						<style>.cls-1{fill:#d94268;}</style>
+						<polygon class="cls-1" points="11.49 5.7 5.75 0 0 5.7 5.75 24.13"/>
+					</svg>
+				</div>
+				{% endif %}
+				<div class="raleway f3 fw6 purple tc absolute right--1 pt2" style="bottom: 46px">
+					{{ page.meta }} mil
+				</div>
+				<?xml version="1.0" encoding="UTF-8"?>
+				<svg class="absolute" height="48px" style="top: -14px; right: -8px;" viewBox="0 0 11.49 24.13" xmlns="http://www.w3.org/2000/svg">
+					<style>.cls-2{fill:#5C3469;}</style>
+					<polygon class="cls-2" points="11.49 5.7 5.75 0 0 5.7 5.75 24.13"/>
+				</svg>
+			</div>
+		</div>
+
+		<div class="center mw6 mt2">
+			<input type="checkbox" id="grafico-fin" class="dn">
+			<label for="grafico-fin" class="f5 orange pointer">
+				<span class="editable">Veja para onde vai sua doação</span>
+			</label>
+			<div class="panel overflow-hidden mv3">
+				<h4 class="editable raleway purple f3 f2-ns mv2 mb3-ns">Transparência</h4>
+				<img class="lazy" data-src="images/grafico-transparencia.png" alt="16% para logística, 16% equipe, 43% comunicação e 25% eventos" />
+			</div>
+		</div>
+	</article>
+</section>
