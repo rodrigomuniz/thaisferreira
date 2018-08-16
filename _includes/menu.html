@@ -1,11 +1,15 @@
 <ul class="list pl0 ma0 mt5 raleway center mw6">
-	{% for menu in site.data.menu %}
-	<li><a class="link hover-pink purple fw6 f3 f2-ns db mv2 pb1" href="{{ menu.url }}">{{ menu.title }}</a></li>
+	{% for item in site.menus.principal %}
+	  <li class="menu-item-{{ loop.index }}">
+	    <a href="{{ item.url }}" title="Go to {{ item.title }}" class="link hover-pink purple fw6 f3 f2-ns db mv2 pb1">{{ item.title }}</a>
+	  </li>
 	{% endfor %}
 </ul>
 <ul class="list pl0 ma0 mt4 raleway center mw6">
-	{% for submenu in site.data.submenu %}
-	<li><a class="link hover-pink purple fw2 f4 f3-ns db mv2" href="{{ submenu.url }}">{{ submenu.title }}</a></li>
+	{% for item in site.menus.secundario %}
+	  <li class="menu-item-{{ loop.index }}">
+	    <a href="{{ item.url }}" title="Go to {{ item.title }}" class="link hover-pink purple fw2 f4 f3-ns db mv2">{{ item.title }}</a>
+	  </li>
 	{% endfor %}
 </ul>
 <div class="flex w-100 pv4 tc center mw6">

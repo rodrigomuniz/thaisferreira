@@ -1,0 +1,21 @@
+principal:
+  - title: Quem é Thais Ferreira
+    url: sobre
+  # - title: Nossos Valores
+  #   url: valores
+  - title: Pautas e Propostas
+    url: pautas-propostas
+  # - title: Mãe&amp;Mais
+  #   url: mae-mais/
+  - title: Agenda
+    url: agenda
+
+# secundario:
+#   - title: Agenda
+#     url: agenda
+#   - title: Equipe
+#     url: equipe
+  # - title: Multimídia
+  #   url: multimidia
+  # - title: Blog
+  #   url: blog
