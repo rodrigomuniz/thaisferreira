@@ -1,5 +1,5 @@
 ---
-label: Doe agora
+label: Colabore com a campanha
 hide_body: true
 is_partial: false
 fields:
@@ -19,3 +19,27 @@ fields:
 - type: file
   name: grafico
   label: Gráfico
+- type: number
+  name: arrecadados
+  label: Arrecadados
+  config:
+    required: true
+- type: number
+  name: meta
+  label: Meta
+  config:
+    required: true
+- type: field_group
+  label: Nossa meta
+  name: nossa_meta
+  fields:
+  - type: number
+    name: arrecadados
+    label: Arrecadados
+    config:
+      required: true
+  - type: number
+    name: meta
+    label: Meta
+    config:
+      required: true
