@@ -1,0 +1,15 @@
+---
+label: Voluntários
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Título
+  config:
+    required: true
+- type: text
+  name: btn_label
+  label: Rótulo do botão
+  config:
+    required: true
