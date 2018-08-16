@@ -1,0 +1,21 @@
+---
+label: Doe agora
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: textarea
+  label: Description
+  name: description
+  config:
+    wysiwyg: true
+    schema:
+      format: html
+    required: false
+- type: file
+  name: grafico
+  label: Gráfico
