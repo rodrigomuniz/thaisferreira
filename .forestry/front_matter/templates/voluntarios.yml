@@ -13,5 +13,10 @@ fields:
   label: Rótulo do botão
   config:
     required: true
+- type: text
+  name: btn_url
+  label: Link do botão
+  config:
+    required: true
 pages:
 - voluntarios.md

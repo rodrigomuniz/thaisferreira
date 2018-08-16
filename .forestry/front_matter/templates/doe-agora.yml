@@ -33,3 +33,5 @@ fields:
     label: Meta
     config:
       required: true
+pages:
+- index.md
