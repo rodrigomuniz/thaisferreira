@@ -5,11 +5,11 @@ is_partial: false
 fields:
 - type: text
   name: title
-  label: Title
+  label: Título
   config:
     required: true
 - type: textarea
-  label: Description
+  label: Descrição
   name: description
   config:
     wysiwyg: true
@@ -19,16 +19,6 @@ fields:
 - type: file
   name: grafico
   label: Gráfico
-- type: number
-  name: arrecadados
-  label: Arrecadados
-  config:
-    required: true
-- type: number
-  name: meta
-  label: Meta
-  config:
-    required: true
 - type: field_group
   label: Nossa meta
   name: nossa_meta
