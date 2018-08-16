@@ -1,5 +1,5 @@
 timezone: America/Sao_Paulo
-githuburl: http://thaisferreira.rodrigomuniz.com
+githuburl: http://southaisferreira.com.br
 permalink: blog/:title
 sass:
     style: :compressed
