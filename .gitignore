@@ -1,5 +1,5 @@
 _site/
-_site2/
+_site_git/
 node_modules
 bower_components
 .sass-cache
