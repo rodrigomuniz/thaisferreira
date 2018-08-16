@@ -10,5 +10,9 @@ fields:
   - post-trajetoria
   config:
     min: '1'
+- type: include
+  template: post-trajetoria
+  label: Post
+  name: post
 pages:
 - quem-e-thais-ferreira.md
