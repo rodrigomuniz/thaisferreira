@@ -1,0 +1,12 @@
+---
+label: Trajetória
+hide_body: true
+is_partial: false
+fields:
+- type: blocks
+  name: post
+  label: Post
+  template_types:
+  - post-trajetoria
+  config:
+    min: '1'
