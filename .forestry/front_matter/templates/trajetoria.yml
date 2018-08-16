@@ -9,10 +9,6 @@ fields:
   template_types:
   - post-trajetoria
   config:
-    min: '1'
-- type: include
-  template: post-trajetoria
-  label: Post
-  name: post
+    min: ''
 pages:
 - quem-e-thais-ferreira.md
