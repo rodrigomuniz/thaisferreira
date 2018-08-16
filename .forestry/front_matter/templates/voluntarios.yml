@@ -14,4 +14,4 @@ fields:
   config:
     required: true
 pages:
-- seja-voluntario.md
+- voluntarios.md
