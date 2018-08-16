@@ -49,35 +49,3 @@ $deep-purple: #1D1950;
 .bg-navi, .hover-bg-navi:hover { background-color: $navi; }
 
 .shadow-deep { box-shadow: 3px 3px 0px 0px rgba( 0, 0, 0, 0.3 ); }
-
-// MENU
-
-.left-100 {
-  left: 100%;
-}
-
-.left-50 {
-  left: 50%;
-}
-
-#menu {
-  transition: .2s;
-}
-
-.panel, .menu-panel {
-  min-height: 0;
-  max-height: 0;
-  transition: max-height .3s;
-}
-
-#grafico-fin:checked ~ .panel,
-#menu-btn:checked ~ .menu-panel {
-  max-height: 100vh;
-  overflow: auto;
-}
-
-.icon-trajetoria {
-  background-image: url(../images/icon-trajetoria.png);
-  background-position: .5rem center;
-  background-repeat: no-repeat;
-}

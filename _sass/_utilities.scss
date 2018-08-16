@@ -1,0 +1,11 @@
+/* Prevents img without src to appear */
+img:not([src]) {
+  visibility: hidden;
+}
+
+// Timeline icon
+.icon-trajetoria {
+  background-image: url(../images/icon-trajetoria.png);
+  background-position: .5rem center;
+  background-repeat: no-repeat;
+}

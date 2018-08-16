@@ -7,11 +7,9 @@
 /*==========  Tachyons  ==========*/
 @import url(https://unpkg.com/tachyons@4.9.1/css/tachyons.min.css);
 
-/*==========  Bootstrap Components  ==========*/
-
 // Core variables
 @import "thais-variables";
 
 /*==========  Custom Base  ==========*/
-
-//@import "thais-animations";
+@import "utilities";
+@import "menu";
