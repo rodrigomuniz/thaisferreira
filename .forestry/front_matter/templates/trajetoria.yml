@@ -10,3 +10,5 @@ fields:
   - post-trajetoria
   config:
     min: '1'
+pages:
+- quem-e-thais-ferreira.md
