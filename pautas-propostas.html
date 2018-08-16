@@ -18,7 +18,7 @@ layout: default
 	{% for pauta in site.data.pautas %}
 	<article class="flex-row flex-ns bb b--dashed bt-0 bl-0 br-0 b--black-10 pv4">
 		<div class="tc tl-ns w-100 w-10-ns black-20 pr1 pb1 pb0-ns o-10">
-			<img src="{{ pauta.icon_path }}" alt="Ícone {{ pauta.title }}" class="w4 w3-ns" />
+			<img src="{{ pauta.icon_path }}" alt="Ícone {{ pauta.title }}" class="lazy w4 w3-ns" />
 		</div>
 		<div class="w-100 w-90-ns pl3-ns">
 			<h2 class="lh-title raleway deep-purple f2 fw6 ma0 tc tl-ns pt1">{{ pauta.title }}</h2>

@@ -1,5 +1,4 @@
 timezone: America/Sao_Paulo
-baseurl: /thaisferreira
 permalink: blog/:title
 sass:
     style: :compressed
