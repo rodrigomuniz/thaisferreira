@@ -1,5 +1,0 @@
-timezone: America/Sao_Paulo
-githuburl: http://thaisferreira.rodrigomuniz.com
-permalink: blog/:title
-sass:
-    style: :compressed

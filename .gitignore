@@ -1,7 +1,0 @@
-_site/
-_site_git/
-node_modules
-bower_components
-.sass-cache
-.grunt/grunt-gh-pages/gh-pages/src/
-.DS_Store
