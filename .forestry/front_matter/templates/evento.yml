@@ -1,0 +1,38 @@
+---
+label: Evento
+hide_body: true
+is_partial: true
+fields:
+- type: text
+  name: title
+  label: Título
+  config:
+    required: true
+- type: number
+  name: day
+  label: Dia
+  description: 'Ex.: 16'
+  config:
+    required: true
+    max: '31'
+    min: '1'
+- type: text
+  name: weekday
+  label: Dia da semana
+  config:
+    required: true
+- type: text
+  name: time_start
+  label: Horário início
+- type: text
+  name: time_end
+  label: Horário Término
+- type: text
+  name: location
+  label: Endereço
+- type: text
+  name: maps_url
+  label: Link do Maps
+- type: text
+  name: fb_url
+  label: Link do Facebook
