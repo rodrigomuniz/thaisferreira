@@ -1,0 +1,16 @@
+---
+label: Agenda
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  name: month
+  label: Mês
+  config:
+    required: true
+  description: 'ex.: Agosto'
+- type: blocks
+  name: eventos
+  label: Eventos
+  template_types:
+  - evento
