@@ -1,16 +1,26 @@
+---
 - pauta: Saúde da Mulher
   icon_path: images/baseline-local_florist-24px.svg
   propostas:
-  - proposta: Criar centros de referência próximos a centros urbanos para mães e crianças de 0-6 anos em situação de rua.
-  - proposta: Treinamento para profissionais de saúde do estado voltados ao atendimento humanizado.
+  - proposta: Criar centros de referência próximos a centros urbanos para mães e crianças
+      de 0-6 anos em situação de rua.
+  - proposta: Treinamento para profissionais de saúde do estado voltados ao atendimento
+      humanizado.
   - proposta: Incluir doulas no programa de pré-natal da Rede Estadual de Saúde.
-  - proposta: Criar programa de pós-natal com atenção integral às mães e crianças até 6 meses.
+  - proposta: Criar programa de pós-natal com atenção integral às mães e crianças
+      até 6 meses.
 - pauta: Primeira Infância
   icon_path: images/baseline-child_care-24px.svg
   propostas:
-  - proposta: Criar programa de visitas domiciliares e atendimentos nas unidades de saúde para avaliação do desenvolvimento infantil até 6 anos.
-  - proposta: Criar programa de visitas de médicos, dentistas e psicólogos em creches públicas e espaços de educação infantil.
-  - proposta: Garantir que o Governo do Estado elabore políticas para a primeira infância em áreas como transporte, desenvolvimento infantil e familiar e violência contra crianças.
+  - proposta: Ocupar e ativar espaços e imóveis públicos abandonados em territórios
+      periféricos e colocá-los a serviço da cultura, lazer e esporte.
+  - proposta: Criar programa de visitas domiciliares e atendimentos nas unidades de
+      saúde para avaliação do desenvolvimento infantil até 6 anos.
+  - proposta: Criar programa de visitas de médicos, dentistas e psicólogos em creches
+      públicas e espaços de educação infantil.
+  - proposta: Garantir que o Governo do Estado elabore políticas para a primeira infância
+      em áreas como transporte, desenvolvimento infantil e familiar e violência contra
+      crianças.
 - pauta: Empreendedorismo
   icon_path: images/round-star-24px.svg
   propostas:
@@ -21,18 +31,25 @@
   icon_path: images/baseline-directions_bus-24px.svg
   propostas:
   - proposta: Criar programa carona a pé para crianças de escolas públicas
-  - proposta: 'Integrar sistemas de metrô, ônibus e trem, barateando as passagens.'
+  - proposta: Integrar sistemas de metrô, ônibus e trem, barateando as passagens.
 - pauta: Cultura
   icon_path: images/baseline-local_library-24px.svg
   propostas:
-  - proposta: Ocupar e ativar espaços e imóveis públicos abandonados em territórios periféricos e colocá-los a serviço da cultura.
+  - proposta: Ocupar e ativar espaços e imóveis públicos abandonados em territórios
+      periféricos e colocá-los a serviço da cultura.
 - pauta: Negritude
   icon_path: images/baseline-people-24px.svg
   propostas:
-  - proposta: Garantir representação mínima de afrodescendentes na publicidade e produção artística governamental.
+  - proposta: Garantir representação mínima de afrodescendentes na publicidade e produção
+      artística governamental.
   - proposta: Promover a empregabilidade do jovem negro.
   - proposta: Criar critérios específicos para acesso ao crédito por afroempreendedores.
-  - proposta: Exigir que a ALERJ peça perdão aos afrobrasileiros em nome do povo do Estado do Rio de Janeiro pelas injustiças cometidas contra eles e seus ancestrais sob jugo da escravidão.
-  - proposta: Formação continuada para profissionais da polícia militar sobre racismo e diversidade cultural e de gênero.
-  - proposta: Fiscalizar e denunciar a subnotificação de registros de ocorrência nos casos de racismo e violência contra a mulher.
-  - proposta: Regulamentar a Lei estadual contra a discriminação racial e a intolerância religiosa
+  - proposta: Exigir que a ALERJ peça perdão aos afrobrasileiros em nome do povo do
+      Estado do Rio de Janeiro pelas injustiças cometidas contra eles e seus ancestrais
+      sob jugo da escravidão.
+  - proposta: Formação continuada para profissionais da polícia militar sobre racismo
+      e diversidade cultural e de gênero.
+  - proposta: Fiscalizar e denunciar a subnotificação de registros de ocorrência nos
+      casos de racismo e violência contra a mulher.
+  - proposta: Regulamentar a Lei estadual contra a discriminação racial e a intolerância
+      religiosa
