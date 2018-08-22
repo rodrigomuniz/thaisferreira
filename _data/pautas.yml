@@ -32,11 +32,6 @@
   propostas:
   - proposta: Criar programa carona a pé para crianças de escolas públicas
   - proposta: Integrar sistemas de metrô, ônibus e trem, barateando as passagens.
-- pauta: Cultura
-  icon_path: images/baseline-local_library-24px.svg
-  propostas:
-  - proposta: Ocupar e ativar espaços e imóveis públicos abandonados em territórios
-      periféricos e colocá-los a serviço da cultura.
 - pauta: Negritude
   icon_path: images/baseline-people-24px.svg
   propostas:
