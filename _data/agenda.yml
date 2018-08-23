@@ -1,14 +1,6 @@
 ---
 - month: Agosto
   schedule:
-  - title: 2º Sarau Político Cultural
-    day: 26
-    weekday: Domingo
-    time_start: '14:00'
-    time_end: '20:00'
-    location: Vidigal - Laje do Ninho
-    maps_url: ''
-    fb_url: ''
   - title: Lançamento da candidatura do Jean Wyllys
     day: 23
     weekday: Quinta
@@ -33,3 +25,11 @@
     location: Mesquita
     maps_url: 
     fb_url: https://www.facebook.com/events/1972002006424066/
+  - title: 2º Sarau Político Cultural
+    day: 26
+    weekday: Domingo
+    time_start: '14:00'
+    time_end: '20:00'
+    location: Vidigal - Laje do Ninho
+    maps_url: ''
+    fb_url: ''
