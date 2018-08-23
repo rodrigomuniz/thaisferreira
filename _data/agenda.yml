@@ -4,24 +4,24 @@
   - title: Lançamento da candidatura do Jean Wyllys
     day: 23
     weekday: Quinta
-    time_start: '9:30'
-    time_end: '10:30'
+    time_start: '19:00'
+    time_end: '23:00'
     location: Lapa, Centro do Rio
-    maps_url:
-    fb_url:
+    maps_url: 
+    fb_url: https://www.facebook.com/events/449648515520285/
   - title: Lançamento das candidaturas negras do PSOL
     day: 24
     weekday: Sexta
     time_start: '19:00'
     time_end: '21:00'
     location: Centro do Rio
-    maps_url:
-    fb_url:
+    maps_url: 
+    fb_url: 
   - title: Mulheres negras decidem na Baixada
     day: 25
     weekday: Sábado
     time_start: '13:00'
     time_end: '17:00'
     location: Mesquita
-    maps_url:
+    maps_url: 
     fb_url: https://www.facebook.com/events/1972002006424066/
