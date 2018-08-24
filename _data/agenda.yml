@@ -7,7 +7,7 @@
     time_start: '19:00'
     time_end: '21:00'
     location: Largo de São Francisco da Prainha, Centro, Rio
-    maps_url: 
+    maps_url: ''
     fb_url: https://www.facebook.com/events/322419165170414/
   - title: Mulheres negras decidem na Baixada
     day: 25
@@ -25,3 +25,11 @@
     location: Vidigal - Laje do Ninho
     maps_url: ''
     fb_url: ''
+  - title: Live com a Thais
+    weekday: Segunda
+    time_start: '14:00'
+    time_end: '15:00'
+    location: Facebook
+    maps_url: ''
+    day: 27
+    fb_url: https://www.facebook.com/southaisferreira
