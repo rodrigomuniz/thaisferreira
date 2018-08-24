@@ -1,14 +1,6 @@
 ---
 - month: Agosto
   schedule:
-  - title: Webinar - Renovação Política na Comunidade Four
-    day: 31
-    weekday: Sexta
-    time_start: '19:00'
-    time_end: '20:00'
-    location: Facebook
-    maps_url: ''
-    fb_url: https://www.facebook.com/southaisferreira
   - title: Lançamento das candidaturas negras do PSOL
     day: 24
     weekday: Sexta
@@ -41,3 +33,20 @@
     maps_url: ''
     day: 27
     fb_url: https://www.facebook.com/southaisferreira
+  - title: Webinar - Renovação Política na Comunidade Four
+    day: 31
+    weekday: Sexta
+    time_start: '19:00'
+    time_end: '20:00'
+    location: Facebook
+    maps_url: ''
+    fb_url: https://www.facebook.com/southaisferreira
+- month: Setembro
+  schedule:
+  - weekday: Sábado
+    location: R. Galvani, 52 - Vila da Penha, Rio
+    fb_url: ''
+    title: Papo no Bar da Gisela
+    time_start: '19:30'
+    time_end: '21:30'
+    day: 1
