@@ -1,14 +1,6 @@
 ---
 - month: Agosto
   schedule:
-  - title: Lançamento da candidatura do Jean Wyllys
-    day: 23
-    weekday: Quinta
-    time_start: '19:00'
-    time_end: '23:00'
-    location: Lapa, Centro do Rio
-    maps_url: 
-    fb_url: https://www.facebook.com/events/449648515520285/
   - title: Lançamento das candidaturas negras do PSOL
     day: 24
     weekday: Sexta
@@ -16,7 +8,7 @@
     time_end: '21:00'
     location: Largo de São Francisco da Prainha, Centro, Rio
     maps_url: 
-    fb_url: 
+    fb_url: https://www.facebook.com/events/322419165170414/
   - title: Mulheres negras decidem na Baixada
     day: 25
     weekday: Sábado
