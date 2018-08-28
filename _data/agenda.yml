@@ -26,6 +26,7 @@
     time_start: '19:30'
     time_end: '21:30'
     day: 1
+    maps_url: https://www.google.com.br/maps/place/R.+Galvani,+52+-+Vila+da+Penha,+Rio+de+Janeiro+-+RJ,+21220-010/@-22.845941,-43.3105707,17z/data=!3m1!4b1!4m5!3m4!1s0x997c9f0f167b45:0xb685f87c4a8d843b!8m2!3d-22.845941!4d-43.308382
   - day: 2
     time_end: '16:00'
     title: Doca Coworking
