@@ -1,6 +1,14 @@
 ---
 - month: Agosto
   schedule:
+  - title: Live com a Thais
+    day: Quinta
+    weekday: 30
+    time_start: '21:00'
+    time_end: '23:00'
+    location: Largo do Bicão
+    maps_url: argo+do+Bicão,+Rio+de+Janeiro+-+RJ,+21070-031/@-22.8391092,-43.3133478,17z/data=!3m1!4b1!4m5!3m4!1s0x997b5e4453f3a1:0x12b8bb1f9a1448eb!8m2!3d-22.8391092!4d-43.3111591
+    fb_url: ''
   - title: Webinar - Renovação Política na Comunidade Four
     day: 31
     weekday: Sexta
