@@ -42,3 +42,11 @@
     maps_url: ''
     fb_url: ''
     day: 3
+  - day: 6
+    time_start: '18:00'
+    time_end: '20:00'
+    location: Amarelinho da Cinelândia
+    maps_url: https://www.google.com.br/maps/place/Pra%C3%A7a+Floriano,+55+-+Centro,+Rio+de+Janeiro+-+RJ,+20031-007/@-22.9104887,-43.1784884,17z/data=!3m1!4b1!4m5!3m4!1s0x997f61be2f9bd7:0x5311bcf4eb2c129a!8m2!3d-22.9104887!4d-43.1762997
+    fb_url: ''
+    title: Empreendedorismo da PUC
+    weekday: Quinta
