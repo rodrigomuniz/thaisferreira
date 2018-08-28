@@ -2,8 +2,8 @@
 - month: Agosto
   schedule:
   - title: Live com a Thais
-    day: Quinta
-    weekday: 30
+    day: 30
+    weekday: Quinta
     time_start: '21:00'
     time_end: '23:00'
     location: Largo do Bicão
