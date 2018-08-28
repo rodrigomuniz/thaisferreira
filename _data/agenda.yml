@@ -32,6 +32,7 @@
     weekday: Domingo
     time_start: '14:00'
     location: R. Barão da Torre, 219 - Ipanema
+    maps_url: https://www.google.com.br/maps/place/R.+Bar%C3%A3o+da+Torre,+219+-+Ipanema,+Rio+de+Janeiro+-+RJ,+22411-001/@-22.9834995,-43.2044665,17z/data=!3m1!4b1!4m5!3m4!1s0x9bd51073df31d1:0x1ef61b381a93c6bb!8m2!3d-22.9834995!4d-43.2022778
   - title: Live Thais + Polly do Amaral MUITAS
     weekday: Segunda
     time_start: '15:00'
