@@ -7,7 +7,7 @@
     time_start: '21:00'
     time_end: '23:00'
     location: Largo do Bicão, Irajá
-    maps_url: argo+do+Bicão,+Rio+de+Janeiro+-+RJ,+21070-031/@-22.8391092,-43.3133478,17z/data=!3m1!4b1!4m5!3m4!1s0x997b5e4453f3a1:0x12b8bb1f9a1448eb!8m2!3d-22.8391092!4d-43.3111591
+    maps_url: https://www.google.com.br/maps/place/Largo+do+Bic%C3%A3o,+Rio+de+Janeiro+-+RJ,+21070-031/data=!4m2!3m1!1s0x997b5e4453f3a1:0x12b8bb1f9a1448eb?sa=X&ved=2ahUKEwj0q_uAqpXdAhWHx5AKHTn_B1oQ8gEwAHoECAQQAQ
     fb_url: ''
   - title: Webinar - Renovação Política na Comunidade Four
     day: 31
@@ -15,18 +15,18 @@
     time_start: '19:00'
     time_end: '20:00'
     location: Facebook
-    maps_url: ''
+    maps_url: https://www.facebook.com/southaisferreira/
     fb_url: ''
 - month: Setembro
   schedule:
-  - weekday: Sábado
-    location: R. Galvani, 52 - Vila da Penha, Rio
-    fb_url: ''
-    title: Papo no Bar da Gisela
+  - title: Papo no Bar da Gisela
+    day: 1
+    weekday: Sábado
     time_start: '19:30'
     time_end: '21:30'
-    day: 1
+    location: R. Galvani, 52 - Vila da Penha, Rio
     maps_url: https://www.google.com.br/maps/place/R.+Galvani,+52+-+Vila+da+Penha,+Rio+de+Janeiro+-+RJ,+21220-010/@-22.845941,-43.3105707,17z/data=!3m1!4b1!4m5!3m4!1s0x997c9f0f167b45:0xb685f87c4a8d843b!8m2!3d-22.845941!4d-43.308382
+    fb_url: ''
   - day: 2
     time_end: '16:00'
     title: Doca Coworking
@@ -34,19 +34,20 @@
     time_start: '14:00'
     location: R. Barão da Torre, 219 - Ipanema
     maps_url: https://www.google.com.br/maps/place/R.+Bar%C3%A3o+da+Torre,+219+-+Ipanema,+Rio+de+Janeiro+-+RJ,+22411-001/@-22.9834995,-43.2044665,17z/data=!3m1!4b1!4m5!3m4!1s0x9bd51073df31d1:0x1ef61b381a93c6bb!8m2!3d-22.9834995!4d-43.2022778
+    fb_url: ''
   - title: Live Thais + Polly do Amaral MUITAS @ Face
+    day: 3
     weekday: Segunda
     time_start: '15:00'
     time_end: '16:00'
-    location: facebook
-    maps_url: ''
+    location: Facebook
+    maps_url: https://www.facebook.com/southaisferreira/
     fb_url: ''
-    day: 3
-  - day: 6
+  - title: Empreendedorismo da PUC
+    day: 6
+    weekday: Quinta
     time_start: '18:00'
     time_end: '20:00'
     location: Amarelinho da Cinelândia
     maps_url: https://www.google.com.br/maps/place/Pra%C3%A7a+Floriano,+55+-+Centro,+Rio+de+Janeiro+-+RJ,+20031-007/@-22.9104887,-43.1784884,17z/data=!3m1!4b1!4m5!3m4!1s0x997f61be2f9bd7:0x5311bcf4eb2c129a!8m2!3d-22.9104887!4d-43.1762997
     fb_url: ''
-    title: Empreendedorismo da PUC
-    weekday: Quinta

@@ -33,7 +33,7 @@
 		<div class="w-70 w-80-ns pb1 ph2 pl3-ns">
 			<h2 class="lh-title raleway purple f4 f2-ns fw6 ma0">{{ event.title }}</h2>
 			<p class="f5 measure lh-copy mv2">
-				{% if event.maps_url %}
+				{% if event.maps_url != "" %}
 				<a class="link truncate w-100 lh-solid orange dib mt1 hover-purple" href="{{ event.maps_url }}" target="_blank">
 				<svg class="v-mid dib" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
 				    <path fill="currentColor" d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
@@ -41,12 +41,12 @@
 				</svg>
 				{% endif %}
 				{{ event.location }}
-				{% if event.maps_url %}
+				{% if event.maps_url != "" %}
 				</a>
 				{% endif %}
 			</p>
 
-			{% if event.fb_url %}
+			{% if event.fb_url != "" %}
 			<p class="f5 measure lh-copy mv2">
 				<a class="link navi lh-solid dib mt1 hover-purple" href="{{ event.fb_url }}" target="_blank">
 					<svg class="v-mid dib mr1" fill="currentColor"  width="20" height="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M15.117 0H.883C.395 0 0 .395 0 .883v14.234c0 .488.395.883.883.883h7.663V9.804H6.46V7.39h2.086V5.607c0-2.066 1.262-3.19 3.106-3.19.883 0 1.642.064 1.863.094v2.16h-1.28c-1 0-1.195.476-1.195 1.176v1.54h2.39l-.31 2.416h-2.08V16h4.077c.488 0 .883-.395.883-.883V.883C16 .395 15.605 0 15.117 0" fill-rule="nonzero"/></svg>
