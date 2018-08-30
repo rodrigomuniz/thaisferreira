@@ -16,7 +16,7 @@
     time_end: '20:00'
     location: Facebook
     maps_url: ''
-    fb_url: https://www.facebook.com/southaisferreira
+    fb_url: ''
 - month: Setembro
   schedule:
   - weekday: Sábado
