@@ -1,6 +1,14 @@
 ---
 - month: Setembro
   schedule:
+  - title: Fórum de Articulação Política de Carreiras Internacionais
+    day: 12
+    weekday: Quarta
+    time_start: '14:00'
+    time_end: '16:00'
+    location: Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - Cefet/RJ
+    maps_url: https://www.google.com/maps?cid=10223125086946006513
+    fb_url: ''
   - title: Encontro com Grupos Culturais na Fundição
     day: 11
     weekday: Terça
