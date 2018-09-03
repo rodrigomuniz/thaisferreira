@@ -1,22 +1,6 @@
 ---
 - month: Setembro
   schedule:
-  - title: Fórum de Articulação Política de Carreiras Internacionais
-    day: 12
-    weekday: Quarta
-    time_start: '14:00'
-    time_end: '16:00'
-    location: Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - Cefet/RJ
-    maps_url: https://www.google.com/maps?cid=10223125086946006513
-    fb_url: ''
-  - title: Encontro com Grupos Culturais na Fundição
-    day: 11
-    weekday: Terça
-    time_start: '19:00'
-    time_end: '20:00'
-    location: Fundição Progresso
-    maps_url: https://www.google.com.br/maps/place/Fundi%C3%A7%C3%A3o+Progresso+-+Centro,+Rio+de+Janeiro+-+State+of+Rio+de+Janeiro/@-22.9800573,-43.2367198,15z/data=!4m5!3m4!1s0x997f6488285c7f:0x17209e36696374c9!8m2!3d-22.9124364!4d-43.1805987
-    fb_url: ''
   - title: 'Papo Mães Ativistas com Érica Malunguinho '
     day: 3
     weekday: Segunda
@@ -32,4 +16,20 @@
     time_end: '20:00'
     location: Amarelinho da Cinelândia
     maps_url: https://www.google.com.br/maps/place/Pra%C3%A7a+Floriano,+55+-+Centro,+Rio+de+Janeiro+-+RJ,+20031-007/@-22.9104887,-43.1784884,17z/data=!3m1!4b1!4m5!3m4!1s0x997f61be2f9bd7:0x5311bcf4eb2c129a!8m2!3d-22.9104887!4d-43.1762997
+    fb_url: ''
+  - title: Encontro com Grupos Culturais na Fundição
+    day: 11
+    weekday: Terça
+    time_start: '19:00'
+    time_end: '20:00'
+    location: Fundição Progresso
+    maps_url: https://www.google.com.br/maps/place/Fundi%C3%A7%C3%A3o+Progresso+-+Centro,+Rio+de+Janeiro+-+State+of+Rio+de+Janeiro/@-22.9800573,-43.2367198,15z/data=!4m5!3m4!1s0x997f6488285c7f:0x17209e36696374c9!8m2!3d-22.9124364!4d-43.1805987
+    fb_url: ''
+  - title: Fórum de Articulação Política de Carreiras Internacionais
+    day: 12
+    weekday: Quarta
+    time_start: '14:00'
+    time_end: '16:00'
+    location: Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - Cefet/RJ
+    maps_url: https://www.google.com/maps?cid=10223125086946006513
     fb_url: ''
