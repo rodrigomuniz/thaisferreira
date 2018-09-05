@@ -6,7 +6,7 @@ description: Contribua com <strong>R$ 20</strong>, <strong>50</strong>, <strong>
 btn_label: Doe agora
 grafico: "/uploads/grafico-transparencia.png"
 nossa_meta:
-  arrecadados: 15
+  arrecadados: 17
   meta: 30
 layout: doacao
 
