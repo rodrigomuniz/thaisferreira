@@ -1,0 +1,12 @@
+---
+title: Thais Ferreira • 50010
+subtitle: Candidata à Deputada Estadual RJ
+description: Empreendedora social, mulher, preta, mãe e cria da periferia. Fundadora
+  do Food Park e do Mãe&amp;Mais, pré-candidata a deputada estadual pelo PSOL RJ.
+timezone: America/Sao_Paulo
+githuburl: http://southaisferreira.com.br
+permalink: blog/:title
+sass:
+  style: ":compressed"
+plugins:
+- jekyll-menus
