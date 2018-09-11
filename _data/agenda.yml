@@ -33,6 +33,14 @@
     time_start: '18:00'
     location: Código Aberto Coworking, Ladeira do João Homem, 56 - Saúde
     maps_url: https://www.google.com.br/maps/place/Ladeira+do+Jo%C3%A3o+Homem,+56+-+Sa%C3%BAde,+Rio+de+Janeiro+-+RJ,+20080-002/data=!4m2!3m1!1s0x997f5b05ec41b5:0x4ed9f45930f7aced?sa=X&ved=2ahUKEwi75tLa_LPdAhVGhJAKHSIbAo4Q8gEwAHoECAEQAQ
+  - title: Thais em Maricá
+    day: 15
+    weekday: Sábado
+    time_start: '10:00'
+    time_end: '13:00'
+    location: Maricá
+    maps_url: ''
+    fb_url: ''
   - title: Fórum Pretas e Pretos na Política
     day: 15
     weekday: Sábado
