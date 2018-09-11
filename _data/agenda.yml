@@ -17,3 +17,11 @@
     location: Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - Cefet/RJ
     maps_url: https://www.google.com/maps?cid=10223125086946006513
     fb_url: ''
+  - day: 12
+    weekday: Quarta
+    time_start: '20:00'
+    time_end: '21:00'
+    location: facebook
+    maps_url: ''
+    fb_url: ''
+    title: Live da Thais sobre doulagem
