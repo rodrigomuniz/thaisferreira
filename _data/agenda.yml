@@ -1,30 +1,6 @@
 ---
 - month: Setembro
   schedule:
-  - title: Empreendedorismo da PUC
-    day: 6
-    weekday: Quinta
-    time_start: '18:00'
-    time_end: '20:00'
-    location: Amarelinho da Cinelândia
-    maps_url: https://www.google.com.br/maps/place/Pra%C3%A7a+Floriano,+55+-+Centro,+Rio+de+Janeiro+-+RJ,+20031-007/@-22.9104887,-43.1784884,17z/data=!3m1!4b1!4m5!3m4!1s0x997f61be2f9bd7:0x5311bcf4eb2c129a!8m2!3d-22.9104887!4d-43.1762997
-    fb_url: ''
-  - title: 'Mães Negras ::: sessão infantil cinema negro no MAR'
-    day: 8
-    weekday: Sábado
-    time_start: '14:00'
-    time_end: '17:00'
-    location: MAR
-    maps_url: https://www.google.com.br/maps/place/Museu+de+Arte+do+Rio/@-22.8967492,-43.1818438,15z/data=!4m2!3m1!1s0x0:0x3f311c24ed97b20?sa=X&ved=2ahUKEwiYoMr7yqbdAhXHlJAKHQJECTIQ_BIwGnoECAcQCw
-    fb_url: https://www.facebook.com/events/1441453889279914/
-  - title: Mães e Crias na Luta convida Candidatas para uma roda de conversa
-    day: 10
-    weekday: Segunda
-    time_start: '18:00'
-    time_end: '20:00'
-    location: R. Vítor Meireles, 539 - Riachuelo
-    maps_url: https://www.google.com.br/maps/place/R.+V%C3%ADtor+Meireles,+539+-+Riachuelo,+Rio+de+Janeiro+-+RJ,+20950-230/@-22.8967492,-43.1818438,15z/data=!4m5!3m4!1s0x997dd0c634b9bb:0x5e19609d83558176!8m2!3d-22.9066686!4d-43.2576514
-    fb_url: ''
   - title: Encontro com Grupos Culturais na Fundição
     day: 11
     weekday: Terça
