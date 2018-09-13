@@ -1,30 +1,6 @@
 ---
 - month: Setembro
   schedule:
-  - title: Encontro com Grupos Culturais na Fundição
-    day: 11
-    weekday: Terça
-    time_start: '19:00'
-    time_end: '20:00'
-    location: Fundição Progresso
-    maps_url: https://www.google.com.br/maps/place/Fundi%C3%A7%C3%A3o+Progresso+-+Centro,+Rio+de+Janeiro+-+State+of+Rio+de+Janeiro/@-22.9800573,-43.2367198,15z/data=!4m5!3m4!1s0x997f6488285c7f:0x17209e36696374c9!8m2!3d-22.9124364!4d-43.1805987
-    fb_url: ''
-  - title: Fórum de Articulação Política de Carreiras Internacionais
-    day: 12
-    weekday: Quarta
-    time_start: '14:00'
-    time_end: '16:00'
-    location: Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - Cefet/RJ
-    maps_url: https://www.google.com/maps?cid=10223125086946006513
-    fb_url: ''
-  - day: 12
-    weekday: Quarta
-    time_start: '20:00'
-    time_end: '21:00'
-    location: facebook
-    maps_url: ''
-    fb_url: ''
-    title: Live da Thais sobre doulagem
   - title: Bá-Pàde Lideranças Pretas
     day: 13
     weekday: Quinta
@@ -57,3 +33,11 @@
     maps_url: ''
     fb_url: ''
     time_start: '10:00'
+  - title: Roda de Conversa - Maternidade e saúde da mulher
+    day: 16
+    weekday: Domingo
+    time_start: '13:00'
+    time_end: '17:00'
+    location: Cidade das Artes - Sala de leitura
+    maps_url: https://www.google.com.br/maps/place/Cidade+das+Artes/@-22.999156,-43.3657976,15z/data=!4m2!3m1!1s0x0:0xdd8393332dbb391a?sa=X&ved=2ahUKEwi_ldHJ5rjdAhVKmJAKHdRfDHcQ_BIwEXoECAcQCw
+    fb_url: ''
