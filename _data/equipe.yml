@@ -1,0 +1,35 @@
+---
+- team: Estratégia
+  members:
+  - name: Paola Belchior
+    email: bel.paola2@gmail.com
+    image_path: images/avatar-paola.jpg
+  - name: Paulo Loiola
+    email: paulolteixeira@gmail.com
+    image_path: images/avatar-paulo.jpg
+- team: Comunicação
+  members:
+  - name: Carla Duarte
+    email: carla.duarte@gmail.com
+    image_path: images/avatar-carla.jpg
+  - name: Rithyele Dantas
+    email: rithyele.dantas@gmail.com
+    image_path: images/avatar-rith.jpg
+  - name: Bruno Castro
+    email: brunocastrods@gmail.com
+    image_path: images/avatar-bruno.jpg
+- team: Foto e Vídeo
+  members:
+  - name: Gabriela Cavalcanti
+    email: gabscavalcanti.fotografia@gmail.com
+    image_path: images/avatar-gab.jpg
+- team: Voluntariado
+  members:
+  - name: Talita Castro
+    email: vol.thaisferreira@gmail.com
+    image_path: images/avatar-talita.jpg
+- team: Captação e Inovação
+  members:
+  - name: Marcos Salles
+    email: marcoshuet@gmail.com
+    image_path: images/avatar-marcos.jpg

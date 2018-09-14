@@ -1,0 +1,42 @@
+{% include top.html %}
+
+<header class="w-100 bg-deep-purple">
+	<div class="center mw7 pv2 pv5-ns relative overflow-hidden contain">
+		<div class="absolute dn-ns w5 h5 bg-navi br-100" style="right: -28%; top: 25%"></div>
+		<div class="absolute dn-ns bg-purple br-100" style="right: 1%; top: -21rem; width:24rem; height:24rem;"></div>
+		<div class="absolute dn-ns w5 h5 bg-navi br-100" style="left: -8%; top: 55%"></div>
+		<div class="absolute dn-ns w4 h4 bg-purple br-100" style="left: 26%; top: 75%;"></div>
+
+		<div class="absolute dn db-ns bg-purple br-100" style="right: 1%; top: -22rem; width:28rem; height:28rem;"></div>
+		<div class="absolute dn db-ns bg-navi br-100" style="left: 0; bottom: 45%; width:23rem; height:23rem;"></div>
+		<div class="absolute dn db-ns w5 h5 bg-navi br-100" style="right: 3%; top: 74%"></div>
+		<div class="absolute dn db-ns bg-purple br-100" style="left: 9%; bottom: -18rem; width:23rem; height:23rem;"></div>
+		<div class="absolute w-100 h-100 contain bottom-0 left-0" style="background-image: url(images/bg-thais04.png);background-repeat: no-repeat; background-position: left bottom"></div>
+		<h1 class="f2 f1-ns lh-title ttu white raleway relative z-999 w-60 ph4 mr3 mr0-ns mr5-l fr tr tc-ns">{{ page.title }}</h1>
+	</div>
+</header>
+
+{% for m in site.data.equipe %}
+<section class="pt2 pb3 bb b--black-10">
+	<div class="pv3 mw6-ns center-ns">
+		<h4 class="raleway f3 f2-ns fw5 green tracked ttu ma0 mt3 tc">{{ m.team }}</h4>
+	</div>
+	<ul class="list pl0 mt0 mw6-ns center">
+		{% for member in m.members %}
+	  <li class="lh-copy pa3 ph0-l mb2 tc-ns flex-ns items-center-ns">
+			<img class="w3 h3 br-100 db center" src="{{ member.image_path }}" alt="Rosto de {{ member.name }}" />
+      <div class="flex-auto pl3-ns tc tl-ns raleway">
+        <span class="f4 f3-ns fw5 db deep-purple">{{ member.name }}</span>
+				<span class="f5 f4-ns db deep-purple">{{ member.email }}</span>
+      </div>
+	  </li>
+		{% endfor %}
+	</ul>
+</section>
+{% endfor %}
+
+{% include cta-colabore.html %}
+
+{% include form-newsletter.html %}
+
+{% include footer.html %}
