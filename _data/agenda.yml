@@ -24,3 +24,10 @@
     location: face
     maps_url: ''
     time_end: '22:00'
+  - title: Debate com jovens da Fundação Estudar
+    weekday: Sábado
+    time_end: '15:30'
+    time_start: '13:30'
+    location: Ibmec RJ, Centro
+    maps_url: ''
+    day: 22
