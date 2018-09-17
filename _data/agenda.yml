@@ -17,3 +17,10 @@
     time_start: '19:00'
     location: Fundição Progresso, Lapa
     maps_url: ''
+  - title: Web encontro Lígia Moreira - Bancada de Mães
+    day: 18
+    weekday: Terça
+    time_start: '21:00'
+    location: face
+    maps_url: ''
+    time_end: '22:00'
